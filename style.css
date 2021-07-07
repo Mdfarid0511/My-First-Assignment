@@ -3,6 +3,91 @@ body{
    font-family: 'Roboto', sans-serif;
 }
 
-.bro{
-   color:salmon;
+.first-part{
+   display:flex;
 }
+.bro{
+   color:orange;
+}
+.intro{
+   font-size: 20px;
+}
+.link-manu{
+
+   background-image: linear-gradient(rgb(179, 50, 50), orange);
+   font-size: 25px;
+   padding: 10px 15px;
+   text-decoration: none;
+   color:seashell;
+   border-radius: 15px;
+   
+
+}
+
+.first-section{
+
+   display: flex;
+   margin-left: 20px;
+     
+}
+
+.half-size{
+ width: 50%;
+ padding-left: 5%;
+ font-size: 25px;
+}
+
+.images img{
+   width: 70%;
+
+  }
+
+
+  .second-section{
+   
+   background-image: url(shapes/Frame\ 57.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   display: flex;
+   margin-top: 20px;
+
+  }
+
+  #second-half{
+   
+   
+   margin-left:5px;
+   margin-top:5%;
+  
+  }
+
+  #second-half p{
+   
+   font-size: 20px;
+   font-weight: 700;
+
+  
+  }
+  #about{
+
+   font-size: 30px;
+  }
+#second-half a{
+   
+   background-image: linear-gradient(rgb(179, 50, 50), orange);
+   font-size: 25px;
+   padding: 10px 15px;
+   text-decoration: none;
+   color:seashell;
+   border-radius: 15px;
+   font-weight: 700; 
+  }
+
+
+
+
+
+
+
+
