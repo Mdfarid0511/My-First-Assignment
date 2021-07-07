@@ -9,8 +9,15 @@ body{
 .bro{
    color:orange;
 }
+
+#first{
+
+   margin-top:7%;
+}
+
 .intro{
-   font-size: 20px;
+   font-size: 25px;
+   font-weight: 500;
 }
 .link-manu{
 
@@ -50,7 +57,7 @@ body{
    background-position: center;
    background-size: cover;
    display: flex;
-   margin-top: 20px;
+   margin-top: 80px;
 
   }
 
@@ -64,11 +71,10 @@ body{
 
   #second-half p{
    
-   font-size: 20px;
-   font-weight: 700;
-
-  
+   font-size: 25px;
+   font-weight: 500;
   }
+
   #about{
 
    font-size: 30px;
@@ -82,6 +88,68 @@ body{
    color:seashell;
    border-radius: 15px;
    font-weight: 700; 
+  }
+
+
+.itam-title{
+          
+   width:750px;
+   height:200px;
+   margin:0px auto; 
+   
+
+  }
+
+  .itam-title h1{
+          
+   margin-left: 30%;
+   margin-top:80px;
+   font-size: 40px;
+  }
+
+
+  .itam-title p{ 
+   margin-left: 10%;
+   font-size: 20px;
+   font-weight: 500;
+  }
+
+
+  .food-itam{
+
+   display:flex;
+   margin-top:40px;
+   margin-left:15%;
+   width:1500px;
+  }
+
+  .three-manu{
+   width:30%;
+   margin-left: 5%;
+   margin-right: 5%;
+   border-radius: 15px;
+   box-shadow: 5px 5px 30px gray;
+  }
+
+  .three-manu p{
+
+   width:300px;
+   font-size: 20px;
+   font-weight: 500;
+   margin-left:15px;
+  }
+
+  .three-manu h1{
+   font-size: 25px;
+   font-weight: 700;
+   margin-left:15px;
+  }
+  .three-manu img{
+   width:300px;
+   height:250px;
+   border-radius: 10px;
+   margin-top:15px;
+   margin-left:25px;
   }
 
 
